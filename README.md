@@ -118,8 +118,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Website: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: [starieeee](https://github.com/starieeee)
+- Website: [moviefavorite](https://moviesfavorite.netlify.app/)
 
 ## 🙏 Acknowledgments
 
@@ -130,13 +130,16 @@ Your Name
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/b5484e9e-816d-4723-b58d-a02623fe3b13" />
+
 
 ### Search Results
-![Search Results](screenshots/search.png)
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/bf85922d-7cef-4e36-bb24-7b97469460da" />
+
 
 ### Favorites Page
-![Favorites](screenshots/favorites.png)
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/b2598335-31eb-4074-a968-5eb05e3fd751" />
+
 
 ---
 
